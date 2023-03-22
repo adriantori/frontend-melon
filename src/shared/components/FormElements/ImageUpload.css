@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .image-upload.center {
     display: flex;
     justify-content: center;
@@ -20,4 +21,28 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
+=======
+.image-upload.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .image-upload__preview {
+    width: 13rem;
+    height: 13rem;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .image-upload__preview img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+>>>>>>> 3a633ae4fabc7ecd305595adb4bce88f41839c8f
   }

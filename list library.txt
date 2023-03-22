@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 to run : npm start
 
 react-router-dom
+=======
+to run : npm start
+
+react-router-dom
+>>>>>>> 3a633ae4fabc7ecd305595adb4bce88f41839c8f
 react-transition-group
