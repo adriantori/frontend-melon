@@ -1,0 +1,4 @@
+to run : npm start
+
+react-router-dom
+react-transition-group
